@@ -2,6 +2,12 @@
 <html>
   <head>
     <title>Iris Flower Classifier</title>
+    <style>
+      body {
+        background-image: url('/static/background.jpg');
+        background-size: cover;
+      }
+    </style>
   </head>
   <body>
     <h1>Iris Flower Classifier</h1>
@@ -16,5 +22,6 @@
       <input type="text" id="petal_width" name="petal_width"><br><br>
       <button type="submit">Submit</button>
     </form>
+    <p>{{ prediction_text }}</p>
   </body>
 </html>
