@@ -1,30 +1,17 @@
 # Data Glacier Internship (First Six Weeks)
-This is a remote internship where I got hands-on experience with exploratory data analysis, data cleaning and validation, machine learning, and model deployment.
+This is a remote internship where I got hands-on experience with exploratory data analysis, data cleaning and validation, machine learning, and model deployment. These weeks represent individual work for the first half of the internship. The final group project (Week 7 - Week 13) is represented in my other repository called "Bank-Term-Deposit-Prediction".
 
-## Week 1
-- Version Control (Learning Git)
-- Scrum (Agile project management system)
-- Kanban (Scheduling system)
 
-## Week 2
-Conducted exploratory data analysis on two taxi companies and determining the better investment. 
+## Schedule (Each week has a README.md for more details)
 
-The datasets include:
-- Cab_Data.csv - details of transaction for 2 cab companies
-- Customer_ID.csv - mapping table that contains a unique identifier which links the customer’s demographic details
-- Transaction_ID.csv - mapping table that contains transaction to customer mapping and payment mode
-- City.csv - contains list of US cities, their population and number of cab users
+Week 1: Version Control
 
-ADD MORE
+Week 2: Exploratory Data Analysis
 
-## Week 3
-Presented the findings and results on the two taxi companies from the previous week
+Week 3: EDA Findings & Presentation
 
-## Week 4
-Deployment on Flask
+Week 4: Flask Deployment
 
-## Week 5
-Cloud and API deployment
+Week 5: Cloud & API Deployment
 
-## Week 6
-File ingestion and schema validation
+Week 6: File Ingestion & Schema Validation
