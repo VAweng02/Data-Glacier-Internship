@@ -2,7 +2,7 @@
 This is a remote internship where I got hands-on experience with exploratory data analysis, data cleaning and validation, machine learning, and model deployment. These weeks represent individual work for the first half of the internship. The final group project (Week 7 - Week 13) is represented in my other repository called "Bank-Term-Deposit-Prediction".
 
 
-## Schedule (Each week has a README.md for more details)
+## Schedule
 
 Week 1: Version Control
 
